@@ -1,0 +1,6 @@
+{
+  "name": "THE 100 — 100 English Words You Know, But Don't Fully Use",
+  "description": "An editorial interactive vocabulary resource uncovering natural everyday meanings, collocations, and patterns for 100 common English words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
